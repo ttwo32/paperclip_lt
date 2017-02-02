@@ -1,5 +1,5 @@
 # Try Paperclip!!
-### Step-to-Rails-Expert.rb [@ttwo32](https://twitter.com/ttwo32)
+### Step-to-Rails-Expert.rb [@two_sann](https://twitter.com/two_sann)
 ### Jan.31th 2017
 
 ---
